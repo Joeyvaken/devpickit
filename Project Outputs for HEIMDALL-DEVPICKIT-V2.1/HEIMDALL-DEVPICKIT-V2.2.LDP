@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\joey_\OneDrive\Documentos\Projetos Altium\HEIMDALL-DEVPICKIT\HEIMDALL-DEVPICKITV-2.1\HEIMDALL-DEVPICKIT-V2.1\HEIMDALL-DEVPICKIT-V2.2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=heimdall-devpickit-v2.2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=heimdall-devpickit-v2.2-slotholes.txt|DrillLayers=gtl,gbl
